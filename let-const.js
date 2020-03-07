@@ -9,12 +9,4 @@ Let is callable inside a {scope}
 */
 
 
-const studentObj = {
-    name: "Sakib",
-    age: 27,
-    phone: 01729,
-    nationality: "BD"
-}
-
-
 console.log(studentObj);
